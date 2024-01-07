@@ -1,4 +1,4 @@
-package room;
+package live;
 
 import java.io.IOException;
 import java.net.ServerSocket;
